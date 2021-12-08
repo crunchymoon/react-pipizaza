@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          {console.log('hello react')}
         </a>
       </header>
     </div>
